@@ -45,8 +45,8 @@ h2 {
 h3 {
   font-size: 26px;
   justify-content; center;
-  background-color: violet;
-  color: rgb(0, 255, 0);  /* was 255,216,255
+  background-color: darkpink;
+  color: rgb(0, 255, 0);  /* lime green, was 255,216,255 */
 }
 h4 {
   color: magenta;
