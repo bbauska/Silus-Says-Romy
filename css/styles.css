@@ -46,7 +46,7 @@ h3 {
   font-size: 26px;
   justify-content; center;
   background-color: darkpink;
-  color: rgb(255, 216, 255);
+  color: rgb(0, 255, 0);  /* was 255,216,255
 }
 h4 {
   color: magenta;
@@ -65,7 +65,7 @@ h4 {
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap');
 
 #confetti-container {
-  position: absolute;  /* absolute */
+  position: absolute;
   top: 0;
   display: flex;
   align-items: center;
@@ -109,5 +109,5 @@ button {
 canvas {
   width: 700px;  /* 500px; */
   height: 300px;
-  border: 1px solid violet;
+  border: 1px solid #00ff00;  /* pure lime green */
 }
