@@ -33,7 +33,7 @@ body {
 
 h1 {
   color: rgb(255, 255, 255);  /* white */
-  font-size: 64px;  /* 64px; */
+  font-size: 64px;
   justify-content: center;
   letter-spacing: 0.1em;
 }
@@ -45,12 +45,13 @@ h2 {
 h3 {
   font-size: 26px;
   justify-content; center;
-  background-color: #ff284d;  /* vivid red */
+  background-color: #ff00ff;  /* magenta, was: #ff284d vivid red */
   color: rgb(0, 255, 0);  /* lime green, was 255,216,255 */
 }
 h4 {
   color: #ff00ff;  /* pure magenta */
   font-size: 14px;
+  background-color: #bfff00; /* pure green */
 }
 
 @keyframes grow {
