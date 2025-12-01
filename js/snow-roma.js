@@ -1,6 +1,7 @@
 'use strict';
 
 /*
+ * js/snow-roma.js
  * Not doing any polyfills, this is a one-off, added fun little extra
  * Assumes window.requestAnimationFrame support, unprefixed CSS Transforms,
  * emoji support, and ES6 support
@@ -24,7 +25,8 @@ const period = [
 ];
 
 /* Emojis to substitute for snowflakes */
-const fun = ['❤️', '🌈', '⚡️', '💥', '✨', '💫', '🌸', '🦄', '🐯', '🐹', '🐺', '🐴', '🐵', '🐶', '🐘', '🦉', '🐒', '🐱'. '🐫', '🎂', '🍿' ];
+const fun = ['❤️', '🌈', '⚡️', '💥', '✨', '💫', '🌸', '🦄', '🐯', '🐹', '🐺', '🐴', '🐵', '🐶', 
+             '🐘', '🦉', '🐒', '🐱'. '🐫', '🎂', '🍿'];
 
 /* The CSS styles for the snowflakes and container */
 const cssString = `.snowfall-container {
