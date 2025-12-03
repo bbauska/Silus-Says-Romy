@@ -13,7 +13,7 @@ body {
   align-items: center;
   flex-direction: column;
   width: 700px;  /* 300%; */
-  background-color: rgba(131, 5, 70, .8);  /* purple */
+  background-color: rgba(218, 25, 233, .7);  /* medium violet */
   border-radius: 30px;  /* 10px; */
   box-shadow: 0 0 8px 0 rgb(3, 75, 85);  /* very dark cyan */
   margin-top: 100px;
