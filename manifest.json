@@ -1,6 +1,9 @@
 {
- "name": "App",
- "icons": [
+  "name": "Silus Says Romy 300,000 Times",
+  "short_name": "Silus Says Romy", 
+  "start_url": "index.html",
+  "display": "standalone",
+  "icons": [
   {
    "src": "\/images/android-icon-36x36.png",
    "sizes": "36x36",
